@@ -11,7 +11,8 @@ AWS S3:
     
  AWS Direct:
       
-    AWS Direct Connect is a network service that provides an alternative to using the Internet to utilize AWS cloud services. AWS Direct Connect enables customers to have low latency, secure and private connections to AWS for workloads which require higher speed or lower latency than the internet.
+AWS Direct Connect is a network service that provides an alternative to using the Internet to utilize AWS cloud services. 
+AWS Direct Connect enables customers to have low latency, secure and private connections to AWS for workloads which require higher speed or lower latency than the internet.
     
 Kubernetes:
   Kubernetes is an open-source container orchestration platform that enables the operation of an elastic web server framework for cloud applications. Kubernetes can support data center outsourcing to public cloud service providers or can be used for web hosting at scale.
